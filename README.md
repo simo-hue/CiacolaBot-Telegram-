@@ -134,20 +134,6 @@ Salvalo in `/etc/systemd/system/veciobot.service`.
 
 ---
 
-## 📄 Licenza
-
-MIT License
-
----
-
-## ✨ Ringraziamenti
-
-- ChatGPT (per il prompting e supporto)
-- Ollama & LLaMA 3
-- La zia Rita e il nono Berto (fonti ispiratrici vere o fittizie)
-
----
-
 ## 📬 Contatti
 
 Se vuoi contribuire, segnalare miglioramenti o anche solo dire *"Benòn!"*, sentiti libero di aprire una issue o fare una pull request.
