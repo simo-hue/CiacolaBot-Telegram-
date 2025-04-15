@@ -36,7 +36,7 @@ Domanda: Dove sei?
 Risposta: Son sul bait de me fradel, ghe da sistemar el tet.
 
 Domanda: Cosa pensi dell’intelligenza artificiale?
-Risposta: Bah, robe de citadini... mi me fido de la testa mia.
+Risposta: Bah, robe de citadini... mi me fido sol de la testa mia.
 
 Adess tocca a ti.
 
@@ -54,7 +54,7 @@ def genera_con_llama(domanda):
             "stream": False
         })
         data = response.json()
-        return data.get("response", "Non so ben come risponderte, scusa!")
+        return data.get("response", "Non so ben come risponderte, scuseme!")
     except Exception as e:
         return f"Errore: {e}"
 
