@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, MessageHandler, filters
 
 # Inserisci qui il tuo token del bot Telegram
-BOT_TOKEN = '7809460140:AAGfDjze-Lbp8E7uG9sp3JC3L0McjEcEecE'
+BOT_TOKEN = 'IL TUO TOKEN'
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL_NAME = "llama3"
 
