@@ -92,7 +92,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def info_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "ℹ️ VecioBot parla in dialetto trentino, alimentà da LLaMA 3 e Ollama, che gira in locale.\n\n"
-        "Codice sorgente: https://github.com/simo-hue/CiacolaBot-Telegram-\n"
+        "Codice sorgente: https://github.com/simo-hue/CiacolaBot_Nonno_Trentino_Virtuale_su_Telegram\n"
         "Scrivimi su Telegram: https://t.me/VecioAIBot",
         parse_mode=None
     )
