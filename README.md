@@ -12,7 +12,7 @@ Sfrutta la potenza di un **modello LLM locale** (come LLaMA 3 via [Ollama](https
 
 <p align="center">
   <img src="img/vecio-screenshot.png" width="600">
-  <img src="chat.png">
+  <img src="img/chat.png">
 </p>
 
 ---
